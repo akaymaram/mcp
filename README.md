@@ -3,8 +3,8 @@
 A minimal Model Context Protocol (MCP) server and client in pure Python.
 **No dependencies**: standard library only, Python 3.8+.
 
-- `server.py` – MCP server (tools, resources, prompts) over stdio
-- `client.py` – launches the server and calls each feature
+- `server.py` – MCP server (tools, resources, prompts) over stdio.
+- `client.py` – launches the server and calls each feature.
 
 ## Run
 
